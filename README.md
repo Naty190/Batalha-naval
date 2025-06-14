@@ -8,8 +8,6 @@ Tabuleiro 5x5
 3 navios por jogador
 O jogador joga contra o computador
 O jogo continua até todos os navios de um lado afundarem
-Tudo funciona no terminal
-Orientação para subir no GitHub
 
 # Batalha-naval # batalha_naval.py - Versão novato
 import random
